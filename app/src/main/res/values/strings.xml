@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Invitation Card</string>
+    <string name="invitationText">We invite you to a Big Floppa Party!
+    Come join us for a celebration for the funny cat.</string>
+    <string name="dateText">Date: 9/18/2022</string>
+    <string name="timeText">Time: 3:00PM</string>
+    <string name="hostText">Host: Raul Vargas</string>
+    <string name="partyText">Party Location: 220 Pawtucket St</string>
+    <string name="image">bigfloppa</string>
+</resources>
